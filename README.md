@@ -7,14 +7,14 @@
 ### Connect with me:
 
 
-[![website](./img/twitter-light.svg)](https://twitter.com/jenanaosama)
-[![website](./img/twitter-dark.svg)](https://twitter.com/jenanaosama)
+[![website](./img/twitter-light.svg)](https://twitter.com/jenanaosama#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/jenanaosama#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/osama-jenana/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/osama-jenana/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/osama-jenana#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/osama-jenana#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/osama.jenana/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/osama.jenana/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/osama.jenana#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/osama.jenana#gh-dark-mode-only)
 
 ### Languages and Tools:
 
